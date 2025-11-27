@@ -1,7 +1,7 @@
 /*Criar o banco de dados do e-commerce */
-CREATE DATABASE mundo_rosinha_kids;
+CREATE DATABASE db_mundo_rosinha_kids;
 
-USE mundo_rosinha_kids;
+USE db_mundo_rosinha_kids;
 
 /*Criar a tabela de produtos */
 CREATE TABLE tb_produtos (
