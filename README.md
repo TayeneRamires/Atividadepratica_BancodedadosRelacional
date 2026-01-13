@@ -155,7 +155,7 @@ Este repositório contém scripts **.SQL** desenvolvidos durante as atividades p
 ## 👩‍💻 Autora
 **Tayene Ramires**  
 Estudante de Sistemas de Informação | Full Stack em formação  
-JavaScript • TypeScript • Node.js • NestJS • HTML • CSS • SQL •
+JavaScript • TypeScript • Node.js • NestJS • HTML • CSS • SQL
 
 ---
 
